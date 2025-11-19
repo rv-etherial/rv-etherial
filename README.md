@@ -1,90 +1,93 @@
 ![Banner](https://raw.githubusercontent.com/Rajverma725/Rajverma725/main/Raj_Verma.png)
  
- # Raj Verma ✨
- 
- Hi there! 👋 I'm **Raj Verma**, an MSc AI/ML student at IIIT Lucknow, passionate about solving real-world problems using Machine Learning, Deep Learning, and Generative AI.
- I’m driven by curiosity, creativity, and a mission to build AI systems that make a positive impact.
- Currently open to internship or research roles in AI/ML.
- I run a ‘Study Hustle’ YouTube channel to motivate learners worldwide!
- 
- ### 🌱 Currently Learning
- - Generative AI and LLMs
- - Computer Vision (CV) and NLP
- - PyTorch and TensorFlow
- 
- ### 💻 Notable Projects
- - 🩺 Breast Cancer Detection using ML
- - 🏢 Employee Attrition Prediction
- - 🚗 Car Price Prediction
- - 🏏 IPL Winning Team Prediction
- - 🎨 Doodle to Image (Deep Learning)
- - 📄 PDF Summarizer using RAG
- - 🩸 Diabetes Patients Prediction
+<div align="center">
+  <h1> Hi, This is Raj "aka Rv"  </h1>
+  <p>🧠 Generative AI Engineer | 🌐 AI/ML & Frontend Developer | 🚀 MLOps Enthusiast | 🎥 Content Creator</p>
+  <img src="https://media.giphy.com/media/3o7aD4c6mJ3lqzP3sQ/giphy.gif" alt="coding gif" width="360"/>
+</div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rv-etherial&label=Profile%20views&color=0e75b6&style=flat" alt="rv-etherial" /> </p>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=rv-etherial&label=Visitors&color=orange&style=for-the-badge)
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rv-etherial" alt="rv-etherial" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/@raj_verma0812" target="blank"><img src="https://img.shields.io/twitter/follow/@raj_verma0812?logo=twitter&style=for-the-badge" alt="@raj_verma0812" /></a> </p>
+## 🏴‍☠️ Ship's Log — About Captain Rv
+I’m **Raj Verma (Rv)** — charting the seas of AI & ML from IIIT Lucknow. I steer projects that turn messy treasure-maps of data into shining doubloons of insight.
 
-- 🔭 I’m currently working on **AI Agent for Daily Life Automation (Jarvis-Type System)**
+- 🎓 **M.Sc. (AI/ML)** — IIIT Lucknow  
+- ⚓ Focus: **Credit Card Analytics, Fraud Detection, IPCV (Doodle→Image), NLP (Mental Health Detection)**  
+- 🧭 Building: practical ML pipelines, RAG systems, generative models  
+- 🏋️‍♂️ Side-quest: powerlifting & fitness discipline
 
-- 🌱 I’m currently learning **Generative AI, Deep Learning, and AI Agents using LangChain & Llama.**
+---
 
-- 💬 Ask me about **MLOps, LLM fine-tuning, and Computer Vision applications.**
+## 🗺️ The Crew — Tech & Tools
+> *“A pirate is a soul who loves the sea — and tech. Here’s my crew.”*
 
-- 📫 How to reach me **rajverma.iiitlucknow@gmail.com**
+**Languages:** `Python` · `C` · `C++`  
+**ML & Data:** `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn`  
+**Deep Learning:** `PyTorch` (learning) · `TensorFlow` (learning) · `CNN` · `GANs`  
+**GenAI / NLP:** `Transformers` · `RAG` · `FAISS` · `HuggingFace`  
+**MLOps:** `Docker` · `MLflow` · `DVC` · `Git/GitHub`  
+**Tools:** `VSCode` · `Colab` · `Linux` · `Anaconda`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14mjKctxaDTuEFC3g-CvnaHy7q_Xl3bIx/view?usp=drivesdk](https://drive.google.com/file/d/14mjKctxaDTuEFC3g-CvnaHy7q_Xl3bIx/view?usp=drivesdk)
+---
 
-- ⚡ Fun fact **My code only runs perfectly when I forget to save the file.**
+## 🏴‍☠️ Treasure Map — Featured Repositories
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@raj_verma0812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raj_verma0812" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raj verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj verma" height="30" width="40" /></a>
-<a href="https://instagram.com/rv-etherial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rv-etherial" height="30" width="40" /></a>
-</p>
+| ⚔️ Project | 🧾 Description | 🔗 Link |
+|---|---:|:---|
+| **💳 Credit Card Fraud Detection** | End-to-end fraud detection pipeline — EDA, feature engineering, model evaluation. | https://github.com/rv-etherial/Credit-Card-Fraud-Detection |
+| **📊 Indian Credit Card Spend Insights** | Deep dive into Indian transaction patterns + storytelling visuals. | https://github.com/rv-etherial/Indian-Credit-Card-Spend-Insights-using-Python |
+| **📈 Credit Card Analytics** | Full analytics pipeline: ingestion → cleaning → modelling → insights. | https://github.com/rv-etherial/Credit-Card-Analytics |
+| **🧑‍💼 Employee Attrition Prediction** | Predictive model to help HR reduce attrition risk. | https://github.com/rv-etherial/Employee_Attrition_Prediction |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">          <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>          </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">          <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>          </a>          <a href="https://www.blender.org/" target="_blank" rel="noreferrer">          <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>          </a>          <a href="https://canvasjs.com" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/>          </a>          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rv-etherial&show_icons=true&locale=en&layout=compact" alt="rv-etherial" /></p>
+## 🧭 Voyages & Quests (Core Strengths)
+- 🔎 **Treasure-hunting (EDA)** — find the signal in noisy transactions  
+- ⚙️ **ML Shipwright** — build robust pipelines and evaluation suites  
+- 🧠 **Deep Learning Deck** — CNNs, GAN ideas for Doodle→Image projects  
+- 🔗 **RAG & NLP** — PDF summarizer, mental-health detectors  
+- 📊 **Data Storytelling** — translate analytics into business moves
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rv-etherial&show_icons=true&locale=en" alt="rv-etherial" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rv-etherial&" alt="rv-etherial" /></p>
+## 🔭 Current Voyage Plans
+- ⚓ Strengthen **Credit Card Analytics** into a reusable library  
+- 🧠 Finish **Mental Health Detection** capstone (NLP + transformer pipelines)  
+- 🎨 Improve **Doodle → Image** model realism  
+- 📚 Prep for **GATE CS** while maintaining gym gains
 
+---
 
+## 🏝️ Pirate Badges (Profile Widgets)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rv-etherial&show_icons=true&theme=merko" alt="github-stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rv-etherial&theme=merko" alt="streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-etherial&layout=compact&theme=merko" alt="top-langs" height="150"/>
+</div>
 
+---
 
+## ✉️ Bounty & Contacts (Wanted)
+If you’ve got collab treasure, internships, or hackathon voyages — drop a message:
 
+- ✉️ **Email:** rajverma.iiitlucknow@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/raj-6873a2327  
+- 🎥 **YouTube:** Study Flow with Rv  
+- 📸 **Instagram:** @studyflow_with_rv · @ctsn_official
 
+---
 
+## 🏴‍☠️ Captain's Oath
+> “I don’t just chase models — I hunt for impact. If there’s a problem, I’ll map it and solve it.”
 
+---
 
+### 🎨 Want a custom **One Piece banner** (Jolly Roger style with Rv logo)?
+Tell me the vibe: **‘Straw-Hat neon’**, **‘Vintage nautical’**, or **‘Minimal anime poster’** — I’ll design a banner image and give you the exact image URL + updated README embed.
 
-
-
-class AIResearcher:
-    def __init__(self):
-        self.name = "Raj"
-        self.education = "M.Sc. Artificial Intelligence & Machine Learning"
-        self.institution = "IIIT Lucknow"
-        self.focus_areas = [
-            "Deep Learning",
-            "Natural Language Processing", 
-            "Computer Vision",
-            "Reinforcement Learning",
-            "MLOps & Cloud Computing"
-        ]
-        
-    def get_skills(self):
-        return {
-            'Programming': ['Python', 'C++', 'SQL'],
-            'ML Frameworks': ['TensorFlow', 'PyTorch', 'Scikit-learn'],
-            'Data Science': ['Data Mining', 'Data Analysis', 'Statistics'],
-            'Tools & Platforms': ['Docker', 'AWS', 'Git', 'Jupyter'],
-            'Professional': ['Technical Communication', 'Research Writing']
-        }
