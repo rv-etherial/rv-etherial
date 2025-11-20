@@ -27,17 +27,65 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ---
 
-## 🗺️ Tech & Tools
-> *“A pirate is a soul who loves the sea — and tech. Here’s my crew.”*
+<table>
+  <tr>
+    <td width="65%" valign="top">
 
-**Languages:** `Python` · `C` · `C++`  
-**ML & Data:** `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn`  
-**Deep Learning:** `PyTorch` (learning) · `TensorFlow` (learning) · `CNN` · `GANs`  
-**GenAI / NLP:** `Transformers` · `RAG` · `FAISS` · `HuggingFace`  
-**MLOps:** `Docker` · `MLflow` · `DVC` · `Git/GitHub`  
-**Tools:** `VSCode` · `Colab` · `Linux` · `Anaconda`
+## 🛠️ Tech Stack & Tools
+> *“A pirate is a soul who loves the sea — and tech. Here's my crew.”*
 
+### 💻 **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+### 🤖 **ML & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### 🧠 **Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+### 🚀 **MLOps & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### 🔧 **Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+   </td>
+
+   <td width="35%" align="center" valign="top">
+      <img src="https://image2url.com/images/1763628755099-56881279-f55f-41e3-9fcf-e845520e5acd.png" 
+           width="250" 
+           style="border-radius:12px;"/>
+    </td>
+  </tr>
+</table>
 ---
+
+
+
+
 
 <table>
   <tr>
@@ -88,13 +136,29 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ---
 
-## ✉️ Bounty & Contacts (Wanted)
-If you’ve got collab treasure, internships, or hackathon voyages — drop a message:
+## 📞 Connect With Me
 
-- ✉️ **Email:** rajverma.iiitlucknow@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/raj-6873a2327  
-- 🎥 **YouTube:** Study Flow with Rv  
-- 📸 **Instagram:** @studyflow_with_rv · @ctsn_official
+If you've got collab, internships, or hackathons — drop a message:
+
+<p align="center">
+
+<a href="mailto:rjv.aiml@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/raj-6873a2327">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Bharat_Files">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/rv.etherial">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
@@ -102,7 +166,3 @@ If you’ve got collab treasure, internships, or hackathon voyages — drop a me
 > “I don’t just chase models — I hunt for impact. If there’s a problem, I’ll map it and solve it.”
 
 ---
-
-### 🎨 Want a custom **One Piece banner** (Jolly Roger style with Rv logo)?
-Tell me the vibe: **‘Straw-Hat neon’**, **‘Vintage nautical’**, or **‘Minimal anime poster’** — I’ll design a banner image and give you the exact image URL + updated README embed.
-
