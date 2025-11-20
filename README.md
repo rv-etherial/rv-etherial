@@ -52,12 +52,11 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **💳 Fraud Detection** | ML pipeline for fraud detection | [View→](https://github.com/rv-etherial/Credit-Card-Fraud-Detection) |
-| **📊 Spend Insights** | Indian transaction analysis | [View→](https://github.com/rv-etherial/Indian-Credit-Card-Spend-Insights-using-Python) |
-| **📈 Card Analytics** | End-to-end analytics pipeline | [View→](https://github.com/rv-etherial/Credit-Card-Analytics) |
-| **🧑‍💼 Attrition Prediction** | HR analytics model | [View→](https://github.com/rv-etherial/Employee_Attrition_Prediction) |
+| **💳 Credit Card Fraud Detection** | ML pipeline for fraud detection | [View→](https://github.com/rv-etherial/Credit-Card-Fraud-Detection) |
+| **📊 Indian Credit Card Spend Insights using Python** | Indian transaction analysis | [View→](https://github.com/rv-etherial/Indian-Credit-Card-Spend-Insights-using-Python) |
+| **📈 Credit Card Analytics** | End-to-end analytics pipeline | [View→](https://github.com/rv-etherial/Credit-Card-Analytics) |
+| **🧑‍💼 Employee Attrition Prediction** | HR analytics model | [View→](https://github.com/rv-etherial/Employee_Attrition_Prediction) |
 
-    </td>
   </tr>
 </table>
 
