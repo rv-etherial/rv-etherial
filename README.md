@@ -40,67 +40,27 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 ---
 
 <table>
-<tr>
+  <tr>
+    <td width="35%" align="center">
+      <img src="https://www.pngitem.com/pimgs/m/141-1414981_luffy-png-transparent-png.png" 
+           width="250" 
+           style="border-radius:12px;"/>
+    </td>
+    <td width="65%" valign="top">
 
-<!-- LEFT IMAGE SECTION -->
-<td style="width:40%; vertical-align:top; padding-right:20px;">
+### 📂 **My Projects**
 
-<p align="center">
-  <!-- Replace this GIF with any image you want -->
-  <img src="C:\Users\srj15\Downloads\lufy.png" 
-       width="260" 
-       style="border-radius:10px;"/>
-</p>
+| Project | Description | Link |
+|---------|-------------|------|
+| **💳 Fraud Detection** | ML pipeline for fraud detection | [View→](https://github.com/rv-etherial/Credit-Card-Fraud-Detection) |
+| **📊 Spend Insights** | Indian transaction analysis | [View→](https://github.com/rv-etherial/Indian-Credit-Card-Spend-Insights-using-Python) |
+| **📈 Card Analytics** | End-to-end analytics pipeline | [View→](https://github.com/rv-etherial/Credit-Card-Analytics) |
+| **🧑‍💼 Attrition Prediction** | HR analytics model | [View→](https://github.com/rv-etherial/Employee_Attrition_Prediction) |
 
-</td>
-
-<!-- RIGHT TABLE SECTION -->
-<td style="width:60%; vertical-align:top;">
-
-<h2>📂 Featured Repositories</h2>
-
-<table>
-<thead>
-<tr>
-<th>⚔️ Project</th>
-<th>🧾 Description</th>
-<th>🔗 Link</th>
-</tr>
-</thead>
-
-<tbody>
-
-<tr>
-<td><b>💳 Credit Card Fraud Detection</b></td>
-<td>End-to-end fraud detection pipeline — EDA, feature engineering, model evaluation.</td>
-<td><a href="https://github.com/rv-etherial/Credit-Card-Fraud-Detection">Repo</a></td>
-</tr>
-
-<tr>
-<td><b>📊 Indian Credit Card Spend Insights</b></td>
-<td>Deep dive into Indian transaction patterns + storytelling visuals.</td>
-<td><a href="https://github.com/rv-etherial/Indian-Credit-Card-Spend-Insights-using-Python">Repo</a></td>
-</tr>
-
-<tr>
-<td><b>📈 Credit Card Analytics</b></td>
-<td>Full analytics pipeline: ingestion → cleaning → modelling → insights.</td>
-<td><a href="https://github.com/rv-etherial/Credit-Card-Analytics">Repo</a></td>
-</tr>
-
-<tr>
-<td><b>🧑‍💼 Employee Attrition Prediction</b></td>
-<td>Predictive model to help HR reduce attrition risk.</td>
-<td><a href="https://github.com/rv-etherial/Employee_Attrition_Prediction">Repo</a></td>
-</tr>
-
-</tbody>
+  
+  </tr>
 </table>
 
-</td>
-
-</tr>
-</table>
 
 ---
 
