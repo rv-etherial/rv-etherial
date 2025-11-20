@@ -42,7 +42,7 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://www.pngitem.com/pimgs/m/141-1414981_luffy-png-transparent-png.png" 
+      <img src="https://image2url.com/images/1763623619604-efacae46-3210-4ffd-a2f2-f4096da3d060.png" 
            width="250" 
            style="border-radius:12px;"/>
     </td>
@@ -57,10 +57,9 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 | **📈 Card Analytics** | End-to-end analytics pipeline | [View→](https://github.com/rv-etherial/Credit-Card-Analytics) |
 | **🧑‍💼 Attrition Prediction** | HR analytics model | [View→](https://github.com/rv-etherial/Employee_Attrition_Prediction) |
 
-  
+    </td>
   </tr>
 </table>
-
 
 ---
 
