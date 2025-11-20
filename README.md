@@ -2,7 +2,7 @@
  
 <div align="center">
   <h1> Hi, This is Raj "aka Rv"  </h1>
-  <h2 align="center">🧠 Generative AI Engineer | 🌐 AI/ML Engineer | 🚀 MLOps Enthusiast | 🎥 Content Creator</h2>
+  <h3 align="center">🧠 Generative AI Engineer | 🌐 AI/ML Engineer | 🚀 MLOps Enthusiast | 🎥 Content Creator</h3>
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="cool gif" />
 </p>
