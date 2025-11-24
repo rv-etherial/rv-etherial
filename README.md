@@ -131,7 +131,7 @@ I’m **Raj Verma (Rv)** — an AI/ML practitioner focused on building clean, pr
 
 ## 🏝️ Profile Widgets
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rv-etherial&show_icons=true&theme=merko" alt="github-stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rv-ethereal&show_icons=true&theme=merko" alt="github-stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rv-etherial&layout=compact&theme=merko" alt="top-langs" height="150"/>
 </div>
 
